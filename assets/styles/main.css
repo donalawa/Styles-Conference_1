@@ -3,6 +3,21 @@
 	margin: 0;
 	padding: 0;
 }
+
+/*Bellow is the style for the links*/
+.active{
+	color: #33bdb8;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: #33bdb8;
+}
+
+
 /*Bello is the style of our main container that covers our whole website*/
 .container{
 	margin: 0 auto;
@@ -173,15 +188,4 @@
 		.left {
 			float: left;
 		}
-		/*Bellow is the style for the links*/
-.active{
-	color: #33bdb8;
-}
-
-a {
-	color: white;
-}
-
-a:hover {
-	color: #33bdb8;
-}
+		
