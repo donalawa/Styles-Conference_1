@@ -1,0 +1,29 @@
+table {
+	width: 100%;
+	border:1px solid #ccc;
+	border-collapse: collapse;
+}
+
+table th {
+	text-align: left;
+	border: 1px solid #ccc;
+	padding: 10px;
+	background: lightgrey;
+	color: rgb(57,55,54);
+}
+
+table td {
+	border-bottom: 1px solid #ccc;
+	padding: 10px 0 10px 10px;
+	font-family: font-family: 'Hind', sans-serif;
+
+}
+
+.no_border {
+	border-left: none;
+	border-right: none;
+}
+
+tr > :first-child {
+	font-weight: bold;
+}

@@ -1,0 +1,24 @@
+.v_left a {
+	color: #33bdb8;
+	text-decoration: none;
+}
+
+.v_left {
+	float: left;
+	width: 30%;
+}
+
+.v_right {
+	float: right;
+	width: 70%;
+	text-align:right;
+}
+
+.clear {
+	clear: both;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0px;
+}

@@ -1,0 +1,19 @@
+body{
+	/*background-color: red;*/
+}
+.grid {
+	width: 600px;
+}
+.box {
+	height: 400px;
+	width: 40.91%;
+	border: 2px solid #ccc;
+	float: left;
+	margin-right: 5%;
+	margin-bottom: 20px;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}

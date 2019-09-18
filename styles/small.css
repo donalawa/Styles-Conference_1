@@ -1,0 +1,50 @@
+body{
+	b/*ackground-color: orange;*/
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.nav {
+	/*float: right;*/
+	text-align: center;
+	margin-top: 10px;
+}
+	.nav ul {
+		/*float: right;*/
+	}
+	.nav ul li{
+		list-style: none;
+		float: left;
+		/*margin-left: 10px;*/
+	}
+
+	.primary-nav{
+		font-size: 14px;
+		font-weight: 400;
+		letter-spacing: .5px;
+		text-transform: uppercase;
+	}
+
+	.logo {
+	border-top: 4px solid orange/*#648880*/;
+	/*float: left;*/
+	font-size: 28px;
+	font-weight: 100;
+	letter-spacing: .5px;
+	line-height: 44px;
+	padding: 50px 0 0 0;
+	text-transform: uppercase;
+	width: 200px;
+}
+	.logo2 {
+		/*float: left;*/
+		font-size: 28px;
+		font-weight: 100;
+		line-height: 44px;
+		letter-spacing: .5px;
+		text-transform: uppercase;
+		margin-bottom: 30px;
+	}

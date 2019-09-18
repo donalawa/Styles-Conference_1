@@ -1,0 +1,55 @@
+.speaker {
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+.speaker .left {
+	float: left;
+	width: 77%;
+}
+	.speaker .left p{
+		color: rgb(122,122,122);
+	}
+
+	.speaker .left h1, .speaker .left h2 {
+		color: rgb(83,83,83);
+	}
+
+.speaker .right {
+	float: right;
+	width: 23%;
+}
+
+.clear {
+	clear: both;
+}
+
+.image_box {
+	border: 2px solid #ccc;
+}
+
+.image_box{
+	text-align: center;
+	margin-top: 40px;
+}
+.image_box h1 {
+	font-size: 20px;
+	color: #ccc;
+	position: relative;
+	top: -58px;
+}
+
+.image_box h2 {
+	font-size: 15px;
+	color: #33bdb8;
+	position: relative;
+	margin-top: -20px;
+	top: -35px;
+}
+.image_box img {
+	width: 90px;
+	border-radius: 100px;
+	height: 90px;
+	position: relative;
+	top: -60px;
+}

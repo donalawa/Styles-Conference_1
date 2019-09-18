@@ -1,0 +1,27 @@
+body{
+	/*background-color: brown;*/
+}
+
+.nav{
+	display: none;
+}
+
+.tagline {
+	display: none;
+}
+
+.grid {
+	/*width: 960px;*/
+	width: 100%;
+	padding: 44px 0 44px 20px;
+	margin: 0 auto;
+}
+
+.box {
+	height: 400px;
+	width: 40%;
+	border: 2px solid #ccc;
+	/*float: left;*/
+	/*margin-right: 1%;
+	display: block;*/
+}
